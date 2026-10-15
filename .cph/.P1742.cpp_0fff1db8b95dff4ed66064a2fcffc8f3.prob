@@ -1,0 +1,1 @@
+{"name":"Local: P1742","url":"c:\\Users\\zhehaya\\Desktop\\code\\P1742.cpp","tests":[{"id":1790763786055,"input":"5\n1.200 1.200\n2.400 2.400\n3.800 4.500\n2.500 3.100\n3.900 1.300","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\zhehaya\\Desktop\\code\\P1742.cpp","group":"local","local":true}

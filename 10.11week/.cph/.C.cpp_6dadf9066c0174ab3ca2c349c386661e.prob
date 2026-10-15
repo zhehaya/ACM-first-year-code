@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"c:\\Users\\zhehaya\\Desktop\\code\\10.11week\\C.cpp","tests":[{"id":1791713576290,"input":"6\n1 2 3\n4 6 1\n3 3 7\n1 7 10\n6 1 9\n1 1 1\n\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\zhehaya\\Desktop\\code\\10.11week\\C.cpp","group":"local","local":true}
