@@ -1,0 +1,1 @@
+{"name":"Local: K","url":"c:\\Users\\zhehaya\\Desktop\\code\\10.18\\K.cpp","tests":[{"id":1792302246076,"input":"5\n0\n-2\n1\n4\n-6","output":""},{"id":1792303067653,"input":"1\n150","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\zhehaya\\Desktop\\code\\10.18\\K.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: B","url":"c:\\Users\\zhehaya\\Desktop\\code\\10.17\\B.cpp","tests":[{"id":1792220127255,"input":"5\n2 2 1\n1 7 2\n4 4 17\n4 4 15\n120 216 34","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\zhehaya\\Desktop\\code\\10.17\\B.cpp","group":"local","local":true}
