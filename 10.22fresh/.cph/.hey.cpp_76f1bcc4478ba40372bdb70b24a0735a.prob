@@ -1,0 +1,1 @@
+{"name":"Local: hey","url":"c:\\Users\\zhehaya\\Desktop\\code\\10.22fresh\\hey.cpp","tests":[{"id":1792666193397,"input":"5 2\n1  \n2  \n3  \n4  \n5  ","output":""},{"id":1792669919855,"input":" _   \n| |\n|_|","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\zhehaya\\Desktop\\code\\10.22fresh\\hey.cpp","group":"local","local":true}
