@@ -11,17 +11,9 @@ int smallC[3][3] = {
 };
 
 int C(long long n, long long m) {
-    if (m < 0 || m > n) return 0;
-    int res = 1;
-    while (n > 0 || m > 0) {
-        int nd = n % 3;
-        int md = m % 3;
-        if (md > nd) return 0;
-        res = res * smallC[nd][md] % 3;
-        n /= 3;
-        m /= 3;
-    }
-    return res;
+    if(n<3&&m<3) return smallC[n][m];
+    if(m==0) return 1;
+    return C(n/3,m/3)*C(n%3,m%3);
 }
 
 signed main()
